@@ -1,0 +1,3 @@
+# Allow launcher app to read memory info
+r_dir_file(platform_app, config_gz)
+r_dir_file(platform_app, sysfs_zram)
